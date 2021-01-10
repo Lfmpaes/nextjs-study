@@ -1,5 +1,5 @@
 function Test(){
-    return <div>Test 2</div>
+    return <div>Test Page</div>
 }
 
 export default Test
